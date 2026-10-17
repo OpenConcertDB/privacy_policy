@@ -14,10 +14,9 @@ We collect several types of information from and about users of our Service, inc
 
 #### A. Personal Data
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, such as:
-* Name
+
 * Email address
 * Account username and password
-* Payment or billing details *(if applicable)*
 
 #### B. Usage Data & Device Information
 We may automatically collect information sent by your browser or mobile device whenever you visit or use our Service, including:
@@ -27,8 +26,12 @@ We may automatically collect information sent by your browser or mobile device w
 * Pages or screens viewed, time spent, and timestamps
 * Unique device identifiers
 
+> **In Plain English:** The very nature of browsers is to collect this information. We do not currently use any sort of tracking code or advertising service. However, we do have regular system logs to log errors and diagnose issues.
+
 #### C. Cookies and Tracking Technologies
 We use cookies, web beacons, and similar tracking technologies to track activity on our Service and store certain information to improve and analyze functionality. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
+
+> **In Plain English:** We use cookies to maintain login sessions.
 
 ---
 
@@ -37,11 +40,8 @@ We use cookies, web beacons, and similar tracking technologies to track activity
 We use the collected data for various purposes, including to:
 * Provide, operate, and maintain our Service
 * Manage user accounts and registration
-* Process transactions and manage orders *(if applicable)*
-* Improve, personalize, and expand our Service
-* Understand and analyze how you use our Service
 * Communicate with you, including sending technical notices, updates, security alerts, and support messages
-* Prevent fraudulent transactions, monitor against security threats, and comply with legal obligations
+* Other OPT-IN notices
 
 ---
 
@@ -52,6 +52,8 @@ We do not sell your personal information. We may share your information in the f
 * **Third-Party Service Providers:** We may share data with third-party service providers who perform services on our behalf (e.g., hosting providers, analytics services, payment processors, customer support tools).
 * **Business Transfers:** If we are involved in a merger, acquisition, asset sale, or bankruptcy, your information may be transferred as part of that transaction.
 * **Legal Requirements:** We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or government agency).
+
+> **In Plain English:** We use very few external services. We use a service to handle email notifications, store media, and run the platform (application code, database, etc). We do not advertise on the platform or offer data outside of our API.
 
 ---
 
@@ -95,5 +97,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-* **Email:** [contact@yourdomain.com]
-* **Address / Location:** [Your Business Location / Address]
+* **Email:** support@openconcertdb.org
